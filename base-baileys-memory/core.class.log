@@ -1,0 +1,252 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573218753804@s.whatsapp.net',
+    fromMe: false,
+    id: 'C9EDF541A646201927255F7A1F567D40',
+    participant: undefined
+  },
+  messageTimestamp: 1715008259,
+  pushName: '~',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573218753804'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_159078e1-9c25-4117-b94e-59191dfce562',
+  keyword: 'key_12628fb2-5b32-463a-984a-417c5cb8a606',
+  answer: '¡Hola! 👋 Soy Shot, tu asistente virtual de 78 Grados Deluxe.\n' +
+    '\n' +
+    'Estoy aquí para ayudarte con cualquier pregunta que tengas. Si prefieres hablar con un humano, escribe "agente" 🧑‍💼 y te conectaré con alguien de nuestro equipo.\n' +
+    '\n' +
+    'Por favor selecciona una de las siguientes opciones:\n' +
+    '👉 *1* Catálogo de cajas con mini botellas de licor.\n' +
+    '👉 *2* Catálogo de mini botellas por unidad.\n' +
+    '👉 *3* Cotizaciones empresariales.\n' +
+    '👉 *4* ¿Cuánto vale el envío y cuanto tiempo se demora en llegar el pedido?\n' +
+    '👉 *5* Hablar con un agente.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e680b9bd741259a8bd2067c6e1b2d46c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573218753804@s.whatsapp.net',
+    fromMe: false,
+    id: '2A91CD7C896CB8059FD9D288B2207555',
+    participant: undefined
+  },
+  messageTimestamp: 1715008264,
+  pushName: '~',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573218753804'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2fe96dc3-d4a6-4679-b115-01729a1e0d2c',
+  keyword: 'key_cb23c153-c9a4-4014-8542-a6ffc3112ddc',
+  answer: 'Nuestras cajas premium con mini botellas de licor estampillado son un detalle ideal para cumpleaños, aniversarios, bodas, grados, invitaciones, fechas especiales y demás situaciones apremiantes. Cada caja incluye una tarjeta personalizada que diseñamos especialmente para tu ocasión.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ca2ac1025ce100d8aec006ece86c3a1a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c01f41af-0260-4209-8572-27a8a1957a69',
+  keyword: 'ans_2fe96dc3-d4a6-4679-b115-01729a1e0d2c',
+  answer: 'Referencia #1️⃣ Caja de mini botellitas surtidas:\n' +
+    '\n' +
+    '(1) Jagermeister (30mL).\n' +
+    '(1) Whisky Jack Daniels (50mL).\n' +
+    '(1) Whisky Grants Rojo (50mL).\n' +
+    '(1) Whisky Chivas Regal 12 o 13 años (50mL).\n' +
+    '(1) Absolut Vodka (50mL).\n' +
+    '(1) Tarjeta o foto personalizada.\n' +
+    '\n' +
+    'Precio💰: $120.000 más el envío.\n' +
+    '\n' +
+    '🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-licor-ref-1/',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f268c07456468f9f4a92cd94cf88c8bc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_77b1ce27-8e7a-4626-8208-17bcc444339f',
+  keyword: 'ans_c01f41af-0260-4209-8572-27a8a1957a69',
+  answer: 'Referencia #2️⃣ Caja de mini botellas surtidas:\n' +
+    '\n' +
+    '((1) Ginebra The London No 1 (50mL).\n' +
+    '(1) Ron La Hechicera (50mL).\n' +
+    '(1) Absolut Vodka (50mL).\n' +
+    '(1) Whisky  Jack Daniels (50mL).\n' +
+    '(1) Whisky Chivas Regal 13 años (50mL)\n' +
+    '(1) Tarjeta o foto personalizada.\n' +
+    '\n' +
+    'Precio💰: $160.000 más el envío.\n' +
+    '\n' +
+    '🔒Ver o comprar caja: https://78grados.com/producto/caja-de-mini-botellas-de-licor-mas-foto-o-invitacion/',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ae060e0b89ab3300264eac6e6e25ff0f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69a2eb6e-b866-4d34-bac8-eea83b05cbd7',
+  keyword: 'ans_77b1ce27-8e7a-4626-8208-17bcc444339f',
+  answer: 'Referencia #3️⃣ Caja de mini botellitas de Whisky:\n' +
+    '\n' +
+    '(1) Whisky Chivas Regal 13 años (50mL).\n' +
+    '(1) Whisky Grants (50mL).\n' +
+    '(1) Whisky Glenfidichh 15 años (50mL).\n' +
+    '(1) Whisky  Glenfidichh 12 años (50mL).\n' +
+    '(1) Whisky Jack Daniels (50mL).\n' +
+    '(1) Tarjeta o foto personalizada.\n' +
+    '\n' +
+    'Precio💰: $180.000 más el envío.\n' +
+    '\n' +
+    '🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-whisky-ref-3/',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '40eb3f2e5064f1031c01160b4b56b8f4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_51f5381c-04e7-47dd-bc40-c470be609d41',
+  keyword: 'ans_69a2eb6e-b866-4d34-bac8-eea83b05cbd7',
+  answer: 'Referencia #4️⃣ Caja de mini botellitas de Ginebra:\n' +
+    '\n' +
+    '(1) Ginebra Whitley Neill Original (50mL).\n' +
+    '(1) Ginebra Whitley Neill Blood Orange Gin (50mL).\n' +
+    '(1) Ginebra Whitley Neill Quince Gin (50mL).\n' +
+    '(1) Ginebra Whitley Neill Raspberry Gin (50mL).\n' +
+    '(1) Ginebra Whitley Neill Rhubarb & Ginger Gin (50mL).\n' +
+    '(1) Tarjeta o foto personalizada.\n' +
+    '\n' +
+    'Precio💰: $180.000 más el envío.\n' +
+    '\n' +
+    '🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-ginebra/',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b4667e1d367acb0248a83531ab0a4c7e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_beca5068-8bfb-4453-97f0-ec83e17cc093',
+  keyword: 'ans_51f5381c-04e7-47dd-bc40-c470be609d41',
+  answer: 'Referencia #5️⃣ Caja de mini botellitas de Whisky:\n' +
+    '\n' +
+    '(1) Whisky Chivas Regal 18 años (50mL).\n' +
+    '(1) Whisky Glenfiddich 12 años (50mL).\n' +
+    '(1) Whisky Glenfidichh 15 años (50 mL).\n' +
+    '(1) Whisky Glenfidichh 18 años (50mL).\n' +
+    '(1) Whisky Chivas Regal 13 años (50 mL).\n' +
+    '(1) Tarjeta o foto personalizada.\n' +
+    '\n' +
+    'Precio💰: $280.000 más el envío.\n' +
+    '\n' +
+    '🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-whiksy-ref-4/',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '77650a73f0b26642f89d3ec7f897d077'
+}
+[ERROR ID (ans_69ab9bbc-f7ea-443e-a6e5-9b5d471348a2)]:  TypeError: Invalid URL
+    at new URL (node:internal/url:796:36)
+    at handleDownload (D:\Bot\base-baileys-memory\node_modules\@bot-whatsapp\provider\lib\baileys\index.cjs:136:35)
+    at generalDownload$1 (D:\Bot\base-baileys-memory\node_modules\@bot-whatsapp\provider\lib\baileys\index.cjs:182:32)
+    at BaileysProvider.sendMedia (D:\Bot\base-baileys-memory\node_modules\@bot-whatsapp\provider\lib\baileys\index.cjs:580:38)
+    at BaileysProvider.sendMessage (D:\Bot\base-baileys-memory\node_modules\@bot-whatsapp\provider\lib\baileys\index.cjs:735:41)
+    at CoreClass.sendProviderAndSave (D:\Bot\base-baileys-memory\node_modules\@bot-whatsapp\bot\lib\bundle.bot.cjs:1561:46)
+    at Object.promiseInFunc (D:\Bot\base-baileys-memory\node_modules\@bot-whatsapp\bot\lib\bundle.bot.cjs:1238:36)
+    at D:\Bot\base-baileys-memory\node_modules\@bot-whatsapp\bot\lib\bundle.bot.cjs:531:38
+    at Array.map (<anonymous>)
+    at Queue.processQueue (D:\Bot\base-baileys-memory\node_modules\@bot-whatsapp\bot\lib\bundle.bot.cjs:526:45) {
+  code: 'ERR_INVALID_URL',
+  input: '/base-baileys-memory/imagenes/VideoOpcion1.mp4'
+}
