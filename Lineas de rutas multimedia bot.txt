@@ -1,0 +1,14 @@
+Al almacenar en el directorio en que van a quedar las imagenes y el video(Carpeta en el drive con las imagenes y el video).
+
+En estas lineas es donde se encuentran las rutas que se deben actualizar en el archivo app.js
+
+Linea 243,
+	335,
+	349,
+	363,
+	377,
+	391,
+	397 
+
+
+
