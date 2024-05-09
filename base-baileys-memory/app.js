@@ -240,7 +240,7 @@ const opcion2 = addKeyword(['2']).addAnswer(
     
 ],{
     
-    media: '/chatbot/images/Referencia#1Catálogo.jpeg',  
+    media: '/chatbot/app/imagenes/Referencia#1Catálogo.jpeg',  
     
 }).addAnswer([
     'Por favor ingrese el numero que corresponda para confirmar el tiempo aproximado de entrega y el precio del envío',
@@ -332,7 +332,7 @@ const opcion1 = addKeyword(['1','0']).addAnswer(
     '\n🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-licor-ref-1/',
 ],{
     
-    media: '/chatbot/images/Referencia#1Caja.jpeg',  
+    media: '/chatbot/app/imagenes/Referencia#1Caja.jpeg',  
     
 }).addAnswer([
     'Referencia #2️⃣ Caja de mini botellas surtidas:',
@@ -346,7 +346,7 @@ const opcion1 = addKeyword(['1','0']).addAnswer(
     '\n🔒Ver o comprar caja: https://78grados.com/producto/caja-de-mini-botellas-de-licor-mas-foto-o-invitacion/',
 ],{
     
-    media: '/chatbot/images/Referencia#2Caja.jpeg',  
+    media: '/chatbot/app/imagenes/Referencia#2Caja.jpeg',  
     
 }).addAnswer([
     'Referencia #3️⃣ Caja de mini botellitas de Whisky:',
@@ -360,7 +360,7 @@ const opcion1 = addKeyword(['1','0']).addAnswer(
     '\n🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-whisky-ref-3/',
 ],{
     
-    media: '/chatbot/images/Referencia#3Caja.jpeg',  
+    media: '/chatbot/app/imagenes/Referencia#3Caja.jpeg',  
     
 }).addAnswer([
     'Referencia #4️⃣ Caja de mini botellitas de Ginebra:',
@@ -374,7 +374,7 @@ const opcion1 = addKeyword(['1','0']).addAnswer(
     '\n🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-ginebra/',
 ],{
     
-    media: '/chatbot/images/Referencia#4caja.jpeg',  
+    media: '/chatbot/app/imagenes/Referencia#4caja.jpeg',  
     
 }).addAnswer([
     'Referencia #5️⃣ Caja de mini botellitas de Whisky:',
@@ -388,13 +388,13 @@ const opcion1 = addKeyword(['1','0']).addAnswer(
     '\n🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-whiksy-ref-4/',
 ],{
     
-    media: '/chatbot/images/Referencia#5Caja.jpeg',  
+    media: '/chatbot/app/imagenes/Referencia#5Caja.jpeg',  
     
 }).addAnswer([
     'Video 360° de nuestra caja premium con mini botellas de licor. 💫',
 ],{
     
-    media: '/chatbot/images/Video.mp4',  
+    media: '/chatbot/app/imagenes/Video.mp4',  
     
     
 }).addAnswer([
