@@ -240,7 +240,7 @@ const opcion2 = addKeyword(['2']).addAnswer(
     
 ],{
     
-    media: '/chatbot/app/imagenes/Referencia#1Catálogo.jpeg',  
+    media: '/chatbot/app/imagenes/Referencia#1Catalogo.jpeg',  
     
 }).addAnswer([
     'Por favor ingrese el numero que corresponda para confirmar el tiempo aproximado de entrega y el precio del envío',
