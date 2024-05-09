@@ -238,11 +238,11 @@ const opcion2 = addKeyword(['2']).addAnswer(
 ).addAnswer([
     'Catálogo de mini botellas de licor: https://78grados.com/categoria/mini-botellas/',
     
-]/*,{
+],{
     
-    media: 'D:/Imagenes/78 Grados bot/Opcion 2/Referencia #1 Catálogo de mini botellas por unidad.jpeg',  
+    media: '/chatbot/images/Referencia#1Catálogo.jpeg',  
     
-}*/).addAnswer([
+}).addAnswer([
     'Por favor ingrese el numero que corresponda para confirmar el tiempo aproximado de entrega y el precio del envío',
     '\n*1* Bogotá',
     
@@ -330,11 +330,11 @@ const opcion1 = addKeyword(['1','0']).addAnswer(
     '(1) Tarjeta o foto personalizada.',
     '\nPrecio💰: $120.000 más el envío.',
     '\n🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-licor-ref-1/',
-]/*,{
+],{
     
-    media: 'D:/Imagenes/78 Grados bot/Opcion 1/Referencia #1 Caja de mini botellitas surtidas.jpeg',  
+    media: '/chatbot/images/Referencia#1Caja.jpeg',  
     
-}*/).addAnswer([
+}).addAnswer([
     'Referencia #2️⃣ Caja de mini botellas surtidas:',
     '\n((1) Ginebra The London No 1 (50mL).',
     '(1) Ron La Hechicera (50mL).',
@@ -344,11 +344,11 @@ const opcion1 = addKeyword(['1','0']).addAnswer(
     '(1) Tarjeta o foto personalizada.',
     '\nPrecio💰: $160.000 más el envío.',
     '\n🔒Ver o comprar caja: https://78grados.com/producto/caja-de-mini-botellas-de-licor-mas-foto-o-invitacion/',
-]/*,{
+],{
     
-    media: 'D:/Imagenes/78 Grados bot/Opcion 1/Referencia #2 Caja de mini botellitas surtidas.jpeg',  
+    media: '/chatbot/images/Referencia#2Caja.jpeg',  
     
-}*/).addAnswer([
+}).addAnswer([
     'Referencia #3️⃣ Caja de mini botellitas de Whisky:',
     '\n(1) Whisky Chivas Regal 13 años (50mL).',
     '(1) Whisky Grants (50mL).',
@@ -358,11 +358,11 @@ const opcion1 = addKeyword(['1','0']).addAnswer(
     '(1) Tarjeta o foto personalizada.',
     '\nPrecio💰: $180.000 más el envío.',
     '\n🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-whisky-ref-3/',
-]/*,{
+],{
     
-    media: 'D:/Imagenes/78 Grados bot/Opcion 1/Referencia #3 Caja de mini botellitas de Whisky.jpeg',  
+    media: '/chatbot/images/Referencia#3Caja.jpeg',  
     
-}*/).addAnswer([
+}).addAnswer([
     'Referencia #4️⃣ Caja de mini botellitas de Ginebra:',
     '\n(1) Ginebra Whitley Neill Original (50mL).',
     '(1) Ginebra Whitley Neill Blood Orange Gin (50mL).',
@@ -372,11 +372,11 @@ const opcion1 = addKeyword(['1','0']).addAnswer(
     '(1) Tarjeta o foto personalizada.',
     '\nPrecio💰: $180.000 más el envío.',
     '\n🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-ginebra/',
-]/*,{
+],{
     
-    media: 'D:/Imagenes/78 Grados bot/Opcion 1/Referencia #4 caja de mini botellitas de Ginebra.jpeg',  
+    media: '/chatbot/images/Referencia#4caja.jpeg',  
     
-}*/).addAnswer([
+}).addAnswer([
     'Referencia #5️⃣ Caja de mini botellitas de Whisky:',
     '\n(1) Whisky Chivas Regal 18 años (50mL).',
     '(1) Whisky Glenfiddich 12 años (50mL).',
@@ -386,15 +386,15 @@ const opcion1 = addKeyword(['1','0']).addAnswer(
     '(1) Tarjeta o foto personalizada.',
     '\nPrecio💰: $280.000 más el envío.',
     '\n🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-whiksy-ref-4/',
-]/*,{
+],{
     
-    media: 'D:/Imagenes/78 Grados bot/Opcion 1/Referencia #5 Caja de mini botellitas de Whisky.jpeg',  
+    media: '/chatbot/images/Referencia#5Caja.jpeg',  
     
-}*/).addAnswer([
+}).addAnswer([
     'Video 360° de nuestra caja premium con mini botellas de licor. 💫',
 ],{
     
-    media: '/chatbot/images/VideoOpcion1.mp4',  
+    media: '/chatbot/images/Video.mp4',  
     
     
 }).addAnswer([
