@@ -1,0 +1,7 @@
+Bajar lo subido al drive
+Instalar NodeJS
+Abrir el archivo app.js del proyecto y seguir las instrucciones del txt Lineas de rutas multimedia bot, para las rutas de los recursos multimedia.
+Abrir la terminal y ubicarse en la carpeta del proyecto, luego ejecutar el comando npm install. 
+Ahora ejecutar el comando npm start.
+Abrir el navegador y acceder al puerto mencionado en la consola, luego vincular el WhatsApp escaneando el codigo QR mostrado en la pagina del navegador.
+Por ultimo enviar mensajes desde otro numero de WhatsApp al numero vinculado. 

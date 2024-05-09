@@ -1,0 +1,5 @@
+Imagen
+docker build -t bot78grados .
+
+Contenedor
+docker run -p 5000:3000 bot78grados
