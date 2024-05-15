@@ -15,7 +15,10 @@ RUN npm install \
     && chown -R node /chatbot/app/node_modules
 COPY . .
 # Cambiar al usuario 'node'
-RUN chmod +x /chatbot/app/node_modules/.bin/eslint
+RUN touch /chatbot/app/core.class.log \
+    && chown -R node:node /chatbot/app/ \
+    && chmod +x /chatbot/app/node_modules/.bin/eslint
+
 USER node
 # Definir los argumentos
 ARG RAILWAY_STATIC_URL
