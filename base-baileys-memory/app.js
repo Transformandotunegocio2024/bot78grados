@@ -391,13 +391,6 @@ const opcion1 = addKeyword(['1','0']).addAnswer(
     media: 'https://78grados.com/wp-content/uploads/2024/05/Referencia5caja.png',  
     
 }).addAnswer([
-    'Video 360° de nuestra caja premium con mini botellas de licor. 💫',
-],{
-    
-    media: 'https://78grados.com/wp-content/uploads/2024/05/Video.mp4',  
-    
-    
-}).addAnswer([
     'Por favor ingrese el numero que corresponda para confirmar el tiempo aproximado de entrega y el precio del envío',
     '\n*1* Bogotá',
     
