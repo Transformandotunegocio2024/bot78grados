@@ -394,7 +394,7 @@ const opcion1 = addKeyword(['1','0']).addAnswer(
     'Video 360° de nuestra caja premium con mini botellas de licor. 💫',
 ],{
     
-    media: 'https://78grados.com/wp-content/uploads/2024/05/Video-360°-de-nuestra-caja-premium-con-mini-botellas-de-licor.mp4',  
+    media: 'https://78grados.com/wp-content/uploads/2024/05/Video.mp4',  
     
     
 }).addAnswer([
