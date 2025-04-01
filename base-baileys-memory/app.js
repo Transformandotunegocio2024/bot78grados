@@ -13,7 +13,7 @@ const { delay } = require('@whiskeysockets/baileys')
 
 
 // Defino el flujo de inico
-const flowInicio = addKeyword(["asesoría"]).addAnswer(
+const flowInicio = addKeyword(['asesoría', { sensitive: true }]).addAnswer(
 [
     '¡Hola! Un placer saludarte. Bienvenid@ a *78 Grados Deluxe https://78grados.com* . Te amplio a continuación la información de nuestras cajas premium con mini botellas de licor + tarjeta impresa personalizada:',
     '\n🥇Cajas x1 unidad desde *$20.000* + envío',
@@ -139,7 +139,37 @@ const flowInicio = addKeyword(["asesoría"]).addAnswer(
                                     media:'https://78grados.com/wp-content/uploads/2025/03/imagen7.jpeg',
                                 }
                             
-                            ) .addAnswer(
+                            ).addAnswer(
+                                [
+                                    '*Referencia #8️⃣ Caja de mini botellitas exclusivas:*',
+                                    '\n(1) Ron La Hechicera (50 mL).',
+                                    '(1) Ginebra Akori Gin (50mL).',
+                                    '(1) Tequila Campo Azul (50mL).',
+                                    '(1) Chivas Regal 18 años (50 mL).',
+                                    '(1) Aguardiente Mil Demonios (50mL).',
+                                    '\n*Precio💰: $270.000 más el envío.*',
+                                    '\n🔒Ver o comprar caja:  Ver o comprar caja: https://78grados.com/producto/cajas-con-mini-botellas-exclusivas-regalo-premium-y-personalizado/',
+                                ],{
+                                        media:'https://78grados.com/wp-content/uploads/2025/04/Caja-2-15.jpg',
+                                    }
+                                
+                                ).addAnswer(
+                                    [
+                                        
+                                        '*Referencia #9️⃣ Caja de mini botellitas de Whisky:*',
+                                        '\n(1) Whisky Chivas Regal 18 años (50mL).',
+                                        '(1) Whisky Glenfiddich 12 años (50mL).',
+                                        '(1) Whisky Glenfidichh 15 años (50 mL). ',
+                                        '(1) Whisky Monkey Shoulder (50mL).',
+                                        '(1) Whisky Chivas Regal 12 o 13 años (50 mL).',
+                                        '(1) Tarjeta o foto personalizada.',
+                                        '\n*Precio💰: $270.000 más el envío.*',
+                                        '\n🔒Ver o comprar caja:  Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-whiksy-ref-4/',
+                                    ],{
+                                            media:'https://78grados.com/wp-content/uploads/2025/04/Caja-con-mini-botellas-de-whisky-9-2.jpg',
+                                        }
+                                    
+                                    ).addAnswer(
                                 [
                                     
                                     '*Catálogo de cajas por 3 unidades:*',

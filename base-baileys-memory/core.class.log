@@ -1,0 +1,279 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573005732752@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F8AA5DA257CE305CE0',
+    participant: undefined
+  },
+  messageTimestamp: 1743545494,
+  pushName: 'Jonathan',
+  broadcast: false,
+  message: Message {
+    conversation: 'ASESORÍA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'ASESORÍA',
+  from: '573005732752'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d99347a8-eb7a-4985-9591-ba3701e96276',
+  keyword: 'key_c5966bf0-f5c3-4805-8e43-deccd01b48b2',
+  answer: '¡Hola! Un placer saludarte. Bienvenid@ a *78 Grados Deluxe https://78grados.com* . Te amplio a continuación la información de nuestras cajas premium con mini botellas de licor + tarjeta impresa personalizada:\n' +
+    '\n' +
+    '🥇Cajas x1 unidad desde *$20.000* + envío\n' +
+    '🥈Cajas x3 unidades desde *$80.000* + envío\n' +
+    '🥉Cajas x5 unidades desde *$130.000* + envío\n' +
+    '\n' +
+    '*Catálogo completo de productos PDF:* https://78grados.com/catalogo-78-grados-deluxe/\n' +
+    '\n' +
+    '*Plantillas de tarjetas impresas:* https://78grados.com/plantillas-de-tarjetas-personalizadas/\n' +
+    '\n' +
+    '*Reseñas de compra:* https://g.co/kgs/xS5WpwU',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 30000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '753a1b00ee8a12eb9e324e0b0f92cebb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9ec712cd-2344-4492-b8e6-ae7b6cdfa85d',
+  keyword: 'ans_d99347a8-eb7a-4985-9591-ba3701e96276',
+  answer: '*Referencia #1️⃣ Caja de mini botellitas surtidas:*\n' +
+    '\n' +
+    '(1) Jagermeister (30mL).\n' +
+    '(1) Whisky Jack Daniels (50mL).\n' +
+    '(1) Whisky Grants Rojo (50mL).\n' +
+    '(1) Whisky Chivas Regal 12 o 13 años (50mL).\n' +
+    '(1) Absolut Vodka (50mL).\n' +
+    '(1) Tarjeta o foto personalizada.\n' +
+    '\n' +
+    '*Precio en promo💰: $130.000 más el envío.*\n' +
+    '\n' +
+    '🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-licor-ref-1/',
+  options: {
+    media: 'https://78grados.com/wp-content/uploads/2025/03/imagen1.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '381432bd9c6e73eefe233231be05fbf0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_79394d46-c8fe-4e44-b4dd-40e35ae6b681',
+  keyword: 'ans_9ec712cd-2344-4492-b8e6-ae7b6cdfa85d',
+  answer: '*Referencia #2️⃣ Caja de mini botellitas surtidas:*\n' +
+    '\n' +
+    '(1) Jagermeister (30mL).\n' +
+    '(1) Whisky Jack Daniels (50mL).\n' +
+    '(1) Aguardiente Desquite (50 mL).\n' +
+    '(1) Ginebra Selva Gin (50 mL).\n' +
+    '(1) Absolut Vodka (50mL).\n' +
+    '(1) Tarjeta o foto personalizada.\n' +
+    '\n' +
+    '*Precio en promo💰: $ 130.000 más el envío.*\n' +
+    '\n' +
+    '🔒Ver o comprar caja: https://78grados.com/producto/estuche-con-licores-en-miniatura-surtidos/',
+  options: {
+    media: 'https://78grados.com/wp-content/uploads/2025/03/imagen2.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '048ac766f2ac44bd6efafbf32f2dabce'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0d2195d6-f688-42ba-8e1e-4643776ee819',
+  keyword: 'ans_79394d46-c8fe-4e44-b4dd-40e35ae6b681',
+  answer: '*Referencia #3️⃣ Caja de mini botellitas surtidas:*\n' +
+    '\n' +
+    '(1) Ginebra The London No 1 (50mL).\n' +
+    '(1) Ron La Hechicera (50mL).\n' +
+    '(1) Absolut Vodka (50mL).\n' +
+    '(1) Whisky  Jack Daniels (50mL).\n' +
+    '(1) Whisky Chivas Regal 12 o 13 años (50mL).\n' +
+    '(1) Tarjeta o foto personalizada.\n' +
+    '\n' +
+    '*Precio💰: $ 170.000 más el envío.*\n' +
+    '\n' +
+    '🔒Ver o comprar caja: https://78grados.com/producto/caja-de-mini-botellas-de-licor-mas-foto-o-invitacion/',
+  options: {
+    media: 'https://78grados.com/wp-content/uploads/2025/03/imagen3.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '35e933cce6a97830b6b486de368440d7'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9d26ec18-21db-4f0e-bf0b-a6e7f3462120',
+  keyword: 'ans_0d2195d6-f688-42ba-8e1e-4643776ee819',
+  answer: '*Referencia #4️⃣ Caja de mini botellitas de Whisky:*\n' +
+    '\n' +
+    '(1) Whisky Chivas Regal 12 o 13 años (50mL). \n' +
+    '(1) Whisky Grants (50mL). \n' +
+    '(1) Whisky Glenfidichh 15 años (50mL).\n' +
+    '(1) Whisky  Glenfidichh 12 años (50mL).\n' +
+    '(1) Whisky Jack Daniels (50mL).\n' +
+    '(1) Tarjeta o foto personalizada.\n' +
+    '\n' +
+    '*Precio💰: $190.000 más el envío.*\n' +
+    '\n' +
+    '🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-whisky-ref-3/',
+  options: {
+    media: 'https://78grados.com/wp-content/uploads/2025/03/imagen4.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'eab2e67005b30a857643f485e36965ab'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_aabe1ede-7c77-4ae7-aec6-37a48f7db520',
+  keyword: 'ans_9d26ec18-21db-4f0e-bf0b-a6e7f3462120',
+  answer: '*Referencia #5️⃣ Caja de mini botellitas de Ginebra:*\n' +
+    '\n' +
+    '(1) Ginebra Whitley Neill Original (50mL).\n' +
+    '(1) Ginebra Whitley Neill Blood Orange Gin (50mL).\n' +
+    '(1) Ginebra Whitley Neill Quince Gin (50mL).\n' +
+    '(1) Ginebra Whitley Neill Raspberry Gin (50mL).\n' +
+    '(1) Ginebra Whitley Neill Rhubarb & Ginger Gin (50mL).\n' +
+    '(1) Tarjeta o foto personalizada.\n' +
+    '\n' +
+    '*Precio💰: $190.000 más el envío.*\n' +
+    '\n' +
+    '🔒Ver o comprar caja: https://78grados.com/producto/caja-premium-de-mini-botellas-de-ginebra/',
+  options: {
+    media: 'https://78grados.com/wp-content/uploads/2025/03/imagen5.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '570df599ea43d3f4b3b03a16a8848d16'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7594445d-a536-4bb1-9e51-4fc6d0c9100a',
+  keyword: 'ans_aabe1ede-7c77-4ae7-aec6-37a48f7db520',
+  answer: '*Referencia #6️⃣ Caja con mini botellas de ginebras surtidas:*\n' +
+    '\n' +
+    '(1) Mini botella Ginebra Whitley Neill (50mL).\n' +
+    '(1) Mini botella Ginebra Akori Gin (50mL).\n' +
+    '(1) Mini botella Ginebra Hendricks  (50mL).\n' +
+    '(1) Mini botella Ginebra Selva Gin (50mL).\n' +
+    '(1) Mini botella Ginebra London N1 (50mL).\n' +
+    '\n' +
+    '*Precio💰: $214.000 más el envío.*\n' +
+    '\n' +
+    '🔒Ver o comprar caja: https://78grados.com/producto/caja-con-mini-botellas-de-ginebras-surtidas/',
+  options: {
+    media: 'https://78grados.com/wp-content/uploads/2025/03/imagen6.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '11951cdc5293571e81404763a54d10c8'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d63870b8-c2ca-4283-a6a8-1ce2520f6539',
+  keyword: 'ans_7594445d-a536-4bb1-9e51-4fc6d0c9100a',
+  answer: '*Referencia #7️⃣ Caja de mini botellitas de Tequila Añejo:*\n' +
+    '\n' +
+    '(1) Tequila Campo Azul Selecto.\n' +
+    '(1) Tequila Agavemio.\n' +
+    '(1) Tequila El Padrino.\n' +
+    '(1) Tequila General Diaz.\n' +
+    '(1) Tequila Nock.\n' +
+    '(1) Tarjeta o foto personalizada.\n' +
+    '\n' +
+    '*Precio💰: $260.000 más el envío.*\n' +
+    '\n' +
+    '🔒Ver o comprar caja:  https://78grados.com/producto/caja-de-regalo-con-mini-botellas-de-tequila-anejo/',
+  options: {
+    media: 'https://78grados.com/wp-content/uploads/2025/03/imagen7.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '04a4f92217c458b093d88501eff3dba9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c483e3dc-fd9d-407e-a9e3-d8868c313815',
+  keyword: 'ans_d63870b8-c2ca-4283-a6a8-1ce2520f6539',
+  answer: '*Referencia #8️⃣ Caja de mini botellitas exclusivas:*\n' +
+    '\n' +
+    '(1) Ron La Hechicera (50 mL).\n' +
+    '(1) Ginebra Akori Gin (50mL).\n' +
+    '(1) Tequila Campo Azul (50mL).\n' +
+    '(1) Chivas Regal 18 años (50 mL).\n' +
+    '(1) Aguardiente Mil Demonios (50mL).\n' +
+    '\n' +
+    '*Precio💰: $270.000 más el envío.*\n' +
+    '\n' +
+    '🔒Ver o comprar caja:  Ver o comprar caja: https://78grados.com/producto/cajas-con-mini-botellas-exclusivas-regalo-premium-y-personalizado/',
+  options: {
+    media: 'https://78grados.com/wp-content/uploads/2025/04/Caja-2-15.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a440830d73a55be18f20b6b474f3667e'
+}
