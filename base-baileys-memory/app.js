@@ -13,7 +13,7 @@ const { delay } = require('@whiskeysockets/baileys')
 
 
 // Defino el flujo de inico
-const flowInicio = addKeyword(['asesoría', { sensitive: true }]).addAnswer(
+const flowInicio = addKeyword('asesoría', { sensitive: true }).addAnswer(
 [
     '¡Hola! Un placer saludarte. Bienvenid@ a *78 Grados Deluxe https://78grados.com* . Te amplio a continuación la información de nuestras cajas premium con mini botellas de licor + tarjeta impresa personalizada:',
     '\n🥇Cajas x1 unidad desde *$20.000* + envío',
